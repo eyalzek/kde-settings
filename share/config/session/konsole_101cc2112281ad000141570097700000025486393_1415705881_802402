@@ -1,0 +1,98 @@
+[1]
+Active=1
+Sessions=1
+
+[2]
+Active=1
+Sessions=2
+
+[3]
+Active=1
+Sessions=3
+
+[4]
+Active=1
+Sessions=4
+
+[5]
+Active=1
+Sessions=5
+
+[Number]
+NumberOfSessions=5
+NumberOfWindows=5
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={2a120d89-e741-4000-89e5-e7f8386b101a}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={f2e62e93-847e-4000-b73d-8e1c4c76247b}
+WorkingDir[$e]=$HOME
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={bdf54a25-2625-4000-aa7e-32c776959b3d}
+WorkingDir[$e]=$HOME
+
+[Session4]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={e5cb52a1-7ce1-4000-83fc-c7fffdf32659}
+WorkingDir[$e]=$HOME/Documents/Vbox_shared/qa_scripts
+
+[Session5]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={0b375b84-8f3d-4000-a515-a8a396ea4ae4}
+WorkingDir[$e]=$HOME
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 976=977
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1921
+
+[WindowProperties2]
+ClassName=Konsole::MainWindow
+Height 976=977
+ObjectName=MainWindow#2
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1921
+
+[WindowProperties3]
+ClassName=Konsole::MainWindow
+Height 976=977
+ObjectName=MainWindow#3
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1921
+
+[WindowProperties4]
+ClassName=Konsole::MainWindow
+Height 976=977
+ObjectName=MainWindow#4
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1921
+
+[WindowProperties5]
+ClassName=Konsole::MainWindow
+Height 976=977
+ObjectName=MainWindow#5
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1921

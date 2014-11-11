@@ -1,0 +1,2 @@
+[PCI]
+/sys/devices/pci0000:00/0000:00:04.0=true
