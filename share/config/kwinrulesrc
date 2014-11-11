@@ -2,6 +2,51 @@
 update_info=kubuntu-fix-kwin-default-size.upd:kubuntu-fix-kwin-default-size
 
 [1]
+Description=tmuxinator-staging
+clientmachine=ubuntuqa-virtualbox
+clientmachinematch=0
+desktop=4
+desktoprule=2
+fullscreen=true
+fullscreenrule=2
+title=tmuxinator-staging – Konsole
+titlematch=1
+types=4294967295
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=tmuxinator-prod
+clientmachine=ubuntuqa-virtualbox
+clientmachinematch=0
+desktop=3
+desktoprule=2
+fullscreen=true
+fullscreenrule=2
+title=tmuxinator-prod – Konsole
+titlematch=1
+types=4294967295
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
+
+[3]
+Description=tmuxinator-qa
+clientmachine=ubuntuqa-virtualbox
+clientmachinematch=0
+desktop=1
+desktoprule=2
+fullscreen=true
+fullscreenrule=2
+title=tmuxinator-qa – Konsole
+titlematch=1
+types=4294967295
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
+
+[4]
 Description=(Default) Disable focus stealing prevention for XV
 fsplevel=0
 fsplevelrule=2
@@ -22,7 +67,7 @@ emoticonsTheme[$d]
 [General]
 BrowserApplication[$d]
 XftHintStyle[$d]
-count=1
+count=4
 desktopFont[$d]
 font[$d]
 menuFont[$d]

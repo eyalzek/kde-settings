@@ -5,6 +5,9 @@ Width 1920=369
 [PlasmaViews][1]
 panelVisibility=0
 
+[PlasmaViews][1][Horizontal1920]
+offset=0
+
 [PlasmaViews][1][Sizes]
 lastsize=1920
 

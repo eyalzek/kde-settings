@@ -252,6 +252,19 @@ immutability=1
 plugin=tasks
 zvalue=0
 
+[Containments][1][Applets][4][Configuration]
+forceRows=false
+groupWhenFull=true
+groupingStrategy=2
+highlightWindows=false
+maxRows=2
+showOnlyCurrentActivity=true
+showOnlyCurrentDesktop=true
+showOnlyCurrentScreen=false
+showOnlyMinimized=false
+showToolTip=true
+sortingStrategy=2
+
 [Containments][1][Applets][4][LayoutInformation]
 Order=3
 

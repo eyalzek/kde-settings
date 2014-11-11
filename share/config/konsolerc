@@ -10,8 +10,11 @@ DefaultProfile=Shell.profile
 [Favorite Profiles]
 Favorites=Shell.profile
 
+[KonsoleWindow]
+ShowWindowTitleOnTitleBar=true
+
 [MainWindow]
 Height 976=977
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAO7AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1921

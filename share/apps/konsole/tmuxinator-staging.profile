@@ -3,11 +3,11 @@ ColorScheme=Solarized
 Font=Monospace,10,-1,2,50,0,0,0,0,0
 
 [General]
-Command=tmuxinator qa-showbox
-LocalTabTitleFormat=tmuxinator-qa
-Name=tmuxinator-qa
+Command=tmuxinator staging
+LocalTabTitleFormat=tmuxinator-staging
+Name=tmuxinator-staging
 Parent=FALLBACK/
-RemoteTabTitleFormat=tmuxinator-qa
+RemoteTabTitleFormat=tmuxinator-staging
 TerminalRows=60
 
 [Scrolling]
