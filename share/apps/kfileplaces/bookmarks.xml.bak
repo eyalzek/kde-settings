@@ -165,7 +165,7 @@
    </metadata>
   </info>
  </bookmark>
- <separator href="file:///media/ubuntu-qa/VBOXADDITIONS_4.3.12_93733">
+ <separator href="file:///media/ubuntu-qa/VBOXADDITIONS_4.3.18_96516">
   <info>
    <metadata owner="http://www.kde.org">
     <UDI>/org/freedesktop/UDisks2/block_devices/sr0</UDI>
@@ -176,7 +176,7 @@
     <bookmark:icon name="media-optical-data"/>
    </metadata>
   </info>
-  <title>VBOXADDITIONS_4.3.12_93733</title>
+  <title>VBOXADDITIONS_4.3.18_96516</title>
  </separator>
  <separator href="file:///var/lib/docker/aufs">
   <info>

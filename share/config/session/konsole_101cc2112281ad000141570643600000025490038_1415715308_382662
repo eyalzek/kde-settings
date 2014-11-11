@@ -10,24 +10,16 @@ Sessions=2
 Active=1
 Sessions=3
 
-[4]
-Active=1
-Sessions=4
-
-[5]
-Active=1
-Sessions=5
-
 [Number]
-NumberOfSessions=5
-NumberOfWindows=5
+NumberOfSessions=3
+NumberOfWindows=3
 
 [Session1]
 Encoding=UTF-8
 LocalTab=%d : %n
 Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
 RemoteTab=(%u) %H
-SessionGuid={2a120d89-e741-4000-89e5-e7f8386b101a}
+SessionGuid={3449d398-7f2a-4000-9575-2798e04691e2}
 WorkingDir[$e]=$HOME
 
 [Session2]
@@ -35,7 +27,7 @@ Encoding=UTF-8
 LocalTab=%d : %n
 Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
 RemoteTab=(%u) %H
-SessionGuid={f2e62e93-847e-4000-b73d-8e1c4c76247b}
+SessionGuid={a4d080f4-e9a5-4000-a2d7-2d989ff533c6}
 WorkingDir[$e]=$HOME
 
 [Session3]
@@ -43,23 +35,7 @@ Encoding=UTF-8
 LocalTab=%d : %n
 Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
 RemoteTab=(%u) %H
-SessionGuid={bdf54a25-2625-4000-aa7e-32c776959b3d}
-WorkingDir[$e]=$HOME
-
-[Session4]
-Encoding=UTF-8
-LocalTab=%d : %n
-Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
-RemoteTab=(%u) %H
-SessionGuid={e5cb52a1-7ce1-4000-83fc-c7fffdf32659}
-WorkingDir[$e]=$HOME/Documents/Vbox_shared/qa_scripts
-
-[Session5]
-Encoding=UTF-8
-LocalTab=%d : %n
-Profile[$e]=$HOME/.kde/share/apps/konsole/Shell.profile
-RemoteTab=(%u) %H
-SessionGuid={0b375b84-8f3d-4000-a515-a8a396ea4ae4}
+SessionGuid={b8b7c7ee-4706-4000-a2b4-f650ed8c4c28}
 WorkingDir[$e]=$HOME
 
 [WindowProperties1]
@@ -80,19 +56,5 @@ Width 1920=1921
 ClassName=Konsole::MainWindow
 Height 976=977
 ObjectName=MainWindow#3
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
-Width 1920=1921
-
-[WindowProperties4]
-ClassName=Konsole::MainWindow
-Height 976=977
-ObjectName=MainWindow#4
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
-Width 1920=1921
-
-[WindowProperties5]
-ClassName=Konsole::MainWindow
-Height 976=977
-ObjectName=MainWindow#5
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAOEAAAABAAAAAQAAAAIAAAACPwAAAAA
 Width 1920=1921

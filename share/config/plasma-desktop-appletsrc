@@ -299,7 +299,7 @@ plugin=org.kde.notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=96
+DialogHeight=102
 DialogWidth=492
 
 [Containments][1][Applets][6][Configuration][Applets][2]
@@ -321,7 +321,7 @@ plugin=notifier
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][4][PopupApplet]
-DialogHeight=348
+DialogHeight=346
 DialogWidth=302
 
 [Containments][1][Applets][6][Configuration][Shortcuts]

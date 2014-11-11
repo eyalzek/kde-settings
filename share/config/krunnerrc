@@ -2,13 +2,13 @@
 Offset=0.5
 
 [General]
-PastQueries=,z
+PastQueries=,konsole --caption "bla" -e tmuxinator prod,kstart --desktop 2 konsole -e tmuxinator prod,kstart --desktop 2 konsole echo "woo",kstart --desktop 2 konsole -e echo woo,kstart --desktop 2 konsole && echo woo,kstart --desktop 2 konsole,z
 
 [Interface]
 Size=550,500
 
 [PlasmaRunnerManager]
-LaunchCounts=
+LaunchCounts=1 shell_kstart --desktop 2 konsole && echo woo,1 shell_kstart --desktop 2 konsole,1 shell_kstart --desktop 2 konsole echo "woo",1 shell_kstart --desktop 2 konsole -e tmuxinator prod,1 shell_konsole --caption "bla" -e tmuxinator prod,1 shell_kstart --desktop 2 konsole -e echo woo
 
 [TaskDialog]
 Height 976=419
